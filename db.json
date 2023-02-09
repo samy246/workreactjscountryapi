@@ -1,0 +1,92 @@
+{
+"countries":[
+  {
+    
+      "name": "Germany",
+      
+      "capital": "Berlin",
+    
+      "region": "Europe",
+      "population": "83240525",
+ 
+      "flag":"https://flagcdn.com/de.svg"
+ 
+    
+  
+  },
+  {
+    
+    "name": "United States of America",
+    
+    "capital": "Washington, D.C.",
+  
+    "region": "Americas",
+    "population": "329484123",
+
+    "flag":"https://flagcdn.com/us.svg"
+
+  
+
+},
+{
+  "name": "Brazil",
+    
+  "capital": "Brasília",
+
+  "region": "Americas",
+  "population": "212559409",
+
+  "flag":"https://flagcdn.com/br.svg"
+},
+{
+  "name": "Iceland",
+    
+  "capital": "Reykjavík",
+
+  "region": "Europe",
+  "population": "366425",
+
+  "flag":"https://flagcdn.com/is.svg"
+},
+{
+  "name": "Afghanistan",
+    
+  "capital": "Kabul",
+
+  "region": "Asia",
+  "population": "40218234",
+
+  "flag":"https://flagcdn.com/af.svg"
+},
+{
+  "name": "Åland Islands",
+    
+  "capital": "Mariehamn",
+
+  "region": "Europe",
+  "population": "28875",
+
+  "flag":"https://flagcdn.com/ax.svg"
+},
+{
+  "name": "Albania",
+    
+  "capital": "Tirana",
+
+  "region": "Europe",
+  "population": "2837743",
+
+  "flag":"https://flagcdn.com/al.svg"
+},
+{
+  "name": "Algeria",
+    
+  "capital": "Algiers",
+
+  "region": "Africa",
+  "population": "44700000",
+
+  "flag":"https://flagcdn.com/dz.svg"
+}
+]
+}
