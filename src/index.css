@@ -43,14 +43,10 @@ body {
     :root {
       --very-light-grey:  hsl(0, 0%, 98%); /* (Light Mode Background) */
       --light-grey: hsl(0, 0%, 73%);
-      --white: hsl(0, 0%, 100%); /* (Dark Mode Text & Light Mode Elements) */
+      --white: hsl(0, 0%, 100%); /* (Light Mode Elements) */
       --dark-grey: hsl(0, 1%, 52%); /* (Light Mode Input) */
       --very-dark-blue: hsl(200, 15%, 8%); /* (Light Mode Text) */
-  
-      --dark-blue: hsl(208, 23%, 22%); /* (Dark Mode Elements) */
-      --very-dark-blue-bg: hsl(207, 26%, 17%); /* (Dark Mode Background) */
-  
-      --font-size-l: 1.5rem;
+  --font-size-l: 1.5rem;
       --font-size-xm: 1rem;
       --font-size-m: 0.875rem;
       --font-size-s: 0.75rem;

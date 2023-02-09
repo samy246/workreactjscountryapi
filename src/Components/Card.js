@@ -9,7 +9,7 @@ function Card() {
     var countryregion='';
     var countrycapital='';
  const [allCountry,setallCountry]=useState([])
-    const urlAllCountries =   'http://localhost:3007/countries'
+    const urlAllCountries =   'https://restcountries.com/v2/all'
     
     // 'https://restcountries.com/v2/all';
   
